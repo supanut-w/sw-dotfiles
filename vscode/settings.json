@@ -82,10 +82,10 @@
   "editor.renderLineHighlight": "all",
 
   // font settings
-  "editor.fontSize": 14,
+  "editor.fontSize": 12,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.fontWeight": "500",
   "terminal.integrated.fontWeightBold": "500",
   "workbench.fontAliasing": "antialiased",
